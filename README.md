@@ -29,7 +29,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 
 **Week 1:** Logistics and Set Up
 - Get all students set up with R, RStudio, **and the course notebooks**
-- Cover the basics of running a Jupyter notebooj
+- Cover the basics of running a Jupyter Notebook
 - **Suggested Homework:**
 
 **Week 2:** Introduction to R and RStudio

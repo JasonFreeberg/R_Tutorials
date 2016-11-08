@@ -1,6 +1,6 @@
 # PSTAT 193 Syllabus
 ### R Programming Tutorials
-#### Winter 2017
+### Winter 2017
 
 **Instructor**:
 Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
@@ -26,7 +26,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - [The R Boook](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) is a great R reference manual
 - [PSTAT's Piazza Group](https://piazza.com/ucsb/other/pstat199) is where students can ask and answer R programming questions
 
-#### Lesson Plan
+### Lesson Plan
 
 **Week 1:** Logistics and Set Up
 - Get all students set up with R, RStudio, **and the course notebooks**

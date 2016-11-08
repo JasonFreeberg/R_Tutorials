@@ -1,6 +1,5 @@
 # PSTAT 193 Syllabus
-### R Programming Tutorials
-### Winter 2017
+### R Programming Tutorials -- Winter 2017
 
 **Instructor**:
 Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
@@ -31,6 +30,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 **Week 1:** Logistics and Set Up
 - Get all students set up with R, RStudio, **and the course notebooks**
 - Cover the basics of running a Jupyter notebooj
+- **Suggested Homework:**
 
 **Week 2:** Introduction to R and RStudio
 - Brief hsitory: why R was made, and a comparison of other languages
@@ -40,6 +40,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Writing R code:
   - Setting environment
   - ...
+- **Suggested Homework:**
  
 **Week 3:** Essentials of R
 - Calculations and Logical Expressions
@@ -47,6 +48,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Arrays and Lists
   - Generating
   - Subsetting
+- **Suggested Homework:**
  
 **Week 4:** Matrices and Data Frames
 - Helpful functions
@@ -61,11 +63,20 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Formatting and Cleaning
   - Wide vs Long format
   - Checking for missing or *wrong* values
+- **Suggested Homework:**
  
 **Week 6:** Introduction to ggplot2
+- ...
+- **Suggested Homework:**
  
 **Week 7:** More on ggplot2
+- ...
+- **Suggested Homework:**
  
 **Week 8:** Putting it all together
+- ...
+- **Suggested Homework:**
 
 **Week 9:** Quirks and Pitfalls of R
+- ...
+- **Suggested Homework:**

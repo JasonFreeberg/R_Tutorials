@@ -22,7 +22,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 **Textbooks and other resources**: While none are required, the following are all great resources for anyone learning the R language.
 - [Jupyter Notebook Docs](http://jupyter-notebook.readthedocs.io/en/latest/) has all the answers for installing, running, and saving Jupyter Notebooks
 - [DataCamp.com](https://www.datacamp.com/courses?learn=r_programming) is an interactive programming tutorial website (much like Codecademy)
-- [The R Boook](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) is a great R reference manual
+- [The R Book](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) is a great R reference manual
 - [PSTAT's Piazza Group](https://piazza.com/ucsb/other/pstat199) is where students can ask and answer R programming questions
 
 ### Lesson Plan
@@ -33,7 +33,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
 
 **Week 2:** Introduction to R and RStudio
-- Brief hsitory: why R was made, and a comparison of other languages
+- Brief history: why R was made, and a comparison of other languages
 - Using RStudio
   - Installing packages
   - ...

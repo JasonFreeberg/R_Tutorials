@@ -33,7 +33,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - RStudio, the IDE for R
   - Jupyter, an interactive notebook we will use in every class
 
-**Week 1:** Welcome
+**Week 1** : Welcome
 - Why R?
 - About the class
   - Students should have a programming background of some sort
@@ -51,13 +51,24 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Keyboard shortcuts
 - **Suggested Homework:**
 
-**Week 2:** Basics of R
-- Types
+**Week 2** : Basics of R
+- Intro to Basic Coding Jargon (e.g. logical, numeric, character, strings, etc.)
+- Data Types
 - Syntax
+  - Basic Operations and Arithmetic
+  - Logical Operators and Arguments
+- Factors
 - Vectors
+- Matrices (?)
 - **Suggested Homework:**
- 
-**Week 3:** Lists and User Defined Functions (UDFs)
+  - Sign up for DataCamp!
+      - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
+  - [FREE] Start the Introduction to R Chapter and do as much as you can.
+
+**Week 3** : Lists and User-Defined Functions (UDFs)
+- Built-in Functions
+  - Numerical / Statistical
+  - Segway into students making the functions themselves.
 - UDFs
   - Make your code DRY
   - Divide and conquer
@@ -68,8 +79,9 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Subsetting
   - Use cases
 - **Suggested Homework:**
+  - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
  
-**Week 4:** Data Frames
+**Week 4** : Data Frames
 - Conditioning and Subsetting
   - Syntax: *dataframe[rows, columns]*
 - New columns
@@ -78,14 +90,14 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - dplyr
 - **Suggested Homework:**
 
-**Week 5** Aggregating Data
+**Week 5** : Aggregating Data
 - Using dplyr
   - Piping operator
   - Basics
 - Grouping and Joining
 - **Suggested Homework:**
  
-**Week 6:** Loading and Cleaning Data
+**Week 6** : Loading and Cleaning Data
 - Formats
   - .csv
   - json
@@ -93,20 +105,25 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - gsub()
 - **Suggested Homework:**
  
-**Week 7:** Review
-- Review all material up until now, lots of in-class exercises
+**Week 7** : Review "Examination" (Open Book)
+- First half of class: Review all material up until now
+- Second half of class: Lots of in-class exercises
+  - Assignment 1: Fill in the blank excercises. (Material from Week 1-6)
+  - Assignment 2: Create your own programs. 
 - **Suggested Homework:**
  
-**Week 8:** ggplot2 (Part I)
+**Week 8** : ggplot2 (Part I)
 - Layering
 - Mapping
 - **Suggested Homework:**
 
-**Week 9:** ggplot2 (Part II)
+**Week 9** : ggplot2 (Part II)
 - More examples and exercises
 - **Suggested Homework:**
 
-**Week 10:** Quirks and Pitfalls of R
+**Week 10** : Quirks and Pitfalls of R
 - R's strengths and weaknesses
+- Compare R to other programming languages predominant in data science
 - Identify some odd features of the R language
 - Comparison to Python using Pandas and matplotlib
+

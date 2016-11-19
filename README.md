@@ -52,12 +52,23 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
 
 **Week 2:** Basics of R
-- Types
+- Intro to Basic Coding Jargon (e.g. logical, numeric, character, strings, etc.)
+- Data Types
 - Syntax
+  - Basic Operations and Arithmetic
+  - Logical Operators and Arguments
+- Factors
 - Vectors
+- Matrices (?)
 - **Suggested Homework:**
- 
-**Week 3:** Lists and User Defined Functions (UDFs)
+  - Sign up for DataCamp!
+      - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
+  - [FREE] Start the Introduction to R Chapter and do as much as you can.
+
+**Week 3:** Lists and User-Defined Functions (UDFs)
+- Built-in Functions
+  - Numeric / Statistics 
+  - Segway into students making the functions themselves.
 - UDFs
   - Make your code DRY
   - Divide and conquer
@@ -68,6 +79,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Subsetting
   - Use cases
 - **Suggested Homework:**
+  - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
  
 **Week 4:** Data Frames
 - Conditioning and Subsetting

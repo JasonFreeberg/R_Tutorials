@@ -8,7 +8,7 @@ Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
 
 **Undergraduate Assistants**:
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
-- [Aaron Nguyen](https://www.linkedin.com/in/aaronknguyen) -> ..... [at] umail.ucsb.edu
+- [Aaron Nguyen](https://www.linkedin.com/in/aaronknguyen) -> aaronknguyen [at] umail.ucsb.edu
 
 **Lecture Time and Location**:
 Wednesdays 7:00pm - 8:00pm, [room]
@@ -27,7 +27,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 
 ### Lesson Plan
 
-**Week 0:** Before Winter Quarter
+**Week 0** : Before Winter Quarter
 - Students are required to download following programs and ensure they are running properly on their machine.
   - R, the programming language for the course
   - RStudio, the IDE for R
@@ -39,13 +39,13 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Students should have a programming background of some sort
   - Grading critera
   - Suggested homework
-- Ensure all students set up with course materials
+- Ensure all students are set up with course materials
   - R, RStudio
   - Jupyter, course notebooks
     - Download this repo
     - Install this [R Kernel](https://github.com/IRkernel/IRkernel) for Jupyter
   - DataCamp.com
-    - Student discount (hopefully)
+    - $9 Monthly Subscription [Student Discount]  (hopefully)
 - Cover the basics of running a Jupyter Notebook
   - Command line argument: "jupyter notebook"
   - Keyboard shortcuts
@@ -57,6 +57,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Syntax
   - Basic Operations and Arithmetic
   - Logical Operators and Arguments
+- **Excercise:** 
 - Factors
 - Vectors
 - Matrices (?)
@@ -65,14 +66,14 @@ Wednesdays 7:00pm - 8:00pm, [room]
       - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
   - [FREE] Start the Introduction to R Chapter and do as much as you can.
 
-**Week 3** : Lists and User-Defined Functions (UDFs)
+**Week 3** : User-Defined Functions (UDFs) and Lists
 - Built-in Functions
   - Numerical / Statistical
   - Segway into students making the functions themselves.
 - UDFs
   - Make your code DRY
   - Divide and conquer
-  - **Exercise:** Mean and Variance
+- **Exercise:** Mean and Variance
 - Lists
   - Generating
     - Named lists
@@ -82,12 +83,19 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
  
 **Week 4** : Data Frames
+- Intro: Difference between a data frame and a matrix?
 - Conditioning and Subsetting
   - Syntax: *dataframe[rows, columns]*
-- New columns
+- New columns/rows
+- **Excercise:** 
+  - Create a clone of an existing data frame (or create your own if time permits)
+  - Manipulate the data frame by adding new and old columns/rows
+  - Sorting your data frame
 - Helpful functions
   - head(), summary(), glimpse(), is.na(), ...
   - dplyr
+- **Excercise:** 
+  - Use these newly learned functions to find specific information in your data frame
 - **Suggested Homework:**
 
 **Week 5** : Aggregating Data
@@ -100,28 +108,29 @@ Wednesdays 7:00pm - 8:00pm, [room]
 **Week 6** : Loading and Cleaning Data
 - Formats
   - .csv
-  - json
+  - .json
 - Regular Expressions
   - gsub()
 - **Suggested Homework:**
  
-**Week 7** : Review "Examination" (Open Book)
+**Week 7** : Review - Ungraded "Examination" (Open Book/Open Notes)
 - First half of class: Review all material up until now
 - Second half of class: Lots of in-class exercises
   - Assignment 1: Fill in the blank excercises. (Material from Week 1-6)
   - Assignment 2: Create your own programs. 
 - **Suggested Homework:**
  
-**Week 8** : ggplot2 (Part I)
+**Week 8** : Data Visualization I - Intro to ggplot2
 - Layering
 - Mapping
 - **Suggested Homework:**
 
-**Week 9** : ggplot2 (Part II)
+**Week 9** : Data Visualization II - Applying ggplot2
 - More examples and exercises
 - **Suggested Homework:**
 
-**Week 10** : Quirks and Pitfalls of R
+**Week 10** : Quirks and Pitfalls of R [and misc.]
+- Talk about
 - R's strengths and weaknesses
 - Compare R to other programming languages predominant in data science
 - Identify some odd features of the R language

@@ -28,55 +28,69 @@ Wednesdays 7:00pm - 8:00pm, [room]
 ### Lesson Plan
 
 **Week 1:** Logistics and Set Up
-- Get all students set up with R, RStudio, **and the course notebooks**
+- Why R?
+- About the class
+  - Students should have a programming background of some sort
+  - Grading critera
+  - Suggested homework
+- Get all students set up with course materials
+  - R, RStudio
+  - Jupyter, class notebooks (this repo)
+  - DataCamp.com
 - Cover the basics of running a Jupyter Notebook
 - **Suggested Homework:**
 
-**Week 2:** Introduction to R and RStudio
-- Brief history: why R was made, and a comparison of other languages
-- Using RStudio
-  - Installing packages
-  - ...
-- Writing R code:
-  - Setting environment
-  - ...
+**Week 2:** Basics of R
+- Types
+- Syntax
+- Vectors
 - **Suggested Homework:**
  
-**Week 3:** Essentials of R
-- Calculations and Logical Expressions
-  - ...
-- Arrays and Lists
+**Week 3:** Lists and User Defined Functions (UDFs)
+- UDFs
+  - Make your code DRY
+  - Divide and conquer
+  - **Exercise:** Mean and Variance
+- Lists
   - Generating
+    - Named lists
   - Subsetting
+  - Use cases
 - **Suggested Homework:**
  
-**Week 4:** Matrices and Data Frames
+**Week 4:** Data Frames
+- Conditioning and Subsetting
+  - Syntax: *dataframe[rows, columns]*
+- New columns
 - Helpful functions
   - head(), summary(), glimpse(), is.na(), ...
-- Conditional Selection
-  - Syntax
- 
-**Week 5:** Loading Data
-- Formats
-  - .csv
-  - JSON
-- Formatting and Cleaning
-  - Wide vs Long format
-  - Checking for missing or *wrong* values
-- **Suggested Homework:**
- 
-**Week 6:** Introduction to ggplot2
-- ...
-- **Suggested Homework:**
- 
-**Week 7:** More on ggplot2
-- ...
-- **Suggested Homework:**
- 
-**Week 8:** Putting it all together
-- ...
+  - dplyr
 - **Suggested Homework:**
 
-**Week 9:** Quirks and Pitfalls of R
-- ...
+**Week 5** Aggregating Data
+- Using dplyr
+  - Piping operator
+  - Basics
+- Grouping and Joining
+- **Suggested Homework:**
+ 
+**Week 6:** Loading and Cleaning Data
+- Formats
+  - .csv
+  - json
+- Regular Expressions
+  - gsub()
+- **Suggested Homework:**
+ 
+**Week 7:** Review
+- Review all material up until now, lots of in-class exercises
+- **Suggested Homework:**
+ 
+**Week 8:** ggplot2 (Part I)
+- Layering
+- Mapping
+- **Suggested Homework:**
+
+**Week 9:** ggplot2 (Part II)
+- More examples and exercises
 - **Suggested Homework:**

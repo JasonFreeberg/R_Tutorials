@@ -51,7 +51,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Keyboard shortcuts
 - **Suggested Homework:**
 
-**Week 2** : Basics of R
+**Week 2** : Basics of R ()
 - Intro to Basic Coding Jargon (e.g. logical, numeric, character, strings, etc.)
 - Data Types
 - Syntax
@@ -63,9 +63,9 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
   - Sign up for DataCamp!
       - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
-  - [FREE] Start the Introduction to R Chapter and do as much as you can.
+  - [FREE] Start the Introduction to R Chapter \__ and do as much as you can.
 
-**Week 3** : Lists and User-Defined Functions (UDFs)
+**Week 3** : Lists and User-Defined Functions (UDFs) -- *Aaron*
 - Built-in Functions
   - Numerical / Statistical
   - Segway into students making the functions themselves.
@@ -81,7 +81,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
   - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
  
-**Week 4** : Data Frames
+**Week 4** : Data Frames -- *Aaron*
 - Conditioning and Subsetting
   - Syntax: *dataframe[rows, columns]*
 - New columns
@@ -90,7 +90,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - dplyr
 - **Suggested Homework:**
 
-**Week 5** : Aggregating Data
+**Week 5** : Aggregating Data -- **
 - Using dplyr
   - Piping operator
   - Basics
@@ -105,19 +105,19 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - gsub()
 - **Suggested Homework:**
  
-**Week 7** : Review "Examination" (Open Book)
+**Week 7** : Review "Examination" (Open Book) -- *Jason and Aaron*
 - First half of class: Review all material up until now
 - Second half of class: Lots of in-class exercises
   - Assignment 1: Fill in the blank excercises. (Material from Week 1-6)
   - Assignment 2: Create your own programs. 
 - **Suggested Homework:**
  
-**Week 8** : ggplot2 (Part I)
+**Week 8** : ggplot2 (Part I) -- *Jason*
 - Layering
 - Mapping
 - **Suggested Homework:**
 
-**Week 9** : ggplot2 (Part II)
+**Week 9** : ggplot2 (Part II) -- *Jason*
 - More examples and exercises
 - **Suggested Homework:**
 

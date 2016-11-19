@@ -27,17 +27,28 @@ Wednesdays 7:00pm - 8:00pm, [room]
 
 ### Lesson Plan
 
-**Week 1:** Logistics and Set Up
+**Week 0:** Before Winter Quarter
+- Students are required to download following programs and ensure they are running properly on their machine.
+  - R, the programming language for the course
+  - RStudio, the IDE for R
+  - Jupyter, an interactive notebook we will use in every class
+
+**Week 1:** Welcome
 - Why R?
 - About the class
   - Students should have a programming background of some sort
   - Grading critera
   - Suggested homework
-- Get all students set up with course materials
+- Ensure all students set up with course materials
   - R, RStudio
-  - Jupyter, class notebooks (this repo)
+  - Jupyter, course notebooks
+    - Download this repo
+    - Install this [R Kernel](https://github.com/IRkernel/IRkernel) for Jupyter
   - DataCamp.com
+    - Student discount (hopefully)
 - Cover the basics of running a Jupyter Notebook
+  - Command line argument: "jupyter notebook"
+  - Keyboard shortcuts
 - **Suggested Homework:**
 
 **Week 2:** Basics of R

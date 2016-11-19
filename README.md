@@ -51,7 +51,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Keyboard shortcuts
 - **Suggested Homework:**
 
-**Week 2** : Basics of R
+**Week 2** : Basics of R ()
 - Intro to Basic Coding Jargon (e.g. logical, numeric, character, strings, etc.)
 - Data Types
 - Syntax
@@ -64,9 +64,13 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
   - Sign up for DataCamp!
       - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
-  - [FREE] Start the Introduction to R Chapter and do as much as you can.
+  - [FREE] Start the Introduction to R Chapter \__ and do as much as you can.
 
+<<<<<<< HEAD
 **Week 3** : User-Defined Functions (UDFs) and Lists
+=======
+**Week 3** : Lists and User-Defined Functions (UDFs) -- *Aaron*
+>>>>>>> origin/master
 - Built-in Functions
   - Numerical / Statistical
   - Segway into students making the functions themselves.
@@ -82,8 +86,12 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - **Suggested Homework:**
   - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
  
+<<<<<<< HEAD
 **Week 4** : Data Frames
 - Intro: Difference between a data frame and a matrix?
+=======
+**Week 4** : Data Frames -- *Aaron*
+>>>>>>> origin/master
 - Conditioning and Subsetting
   - Syntax: *dataframe[rows, columns]*
 - New columns/rows
@@ -98,7 +106,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Use these newly learned functions to find specific information in your data frame
 - **Suggested Homework:**
 
-**Week 5** : Aggregating Data
+**Week 5** : Aggregating Data -- **
 - Using dplyr
   - Piping operator
   - Basics
@@ -113,19 +121,31 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - gsub()
 - **Suggested Homework:**
  
+<<<<<<< HEAD
 **Week 7** : Review - Ungraded "Examination" (Open Book/Open Notes)
+=======
+**Week 7** : Review "Examination" (Open Book) -- *Jason and Aaron*
+>>>>>>> origin/master
 - First half of class: Review all material up until now
 - Second half of class: Lots of in-class exercises
   - Assignment 1: Fill in the blank excercises. (Material from Week 1-6)
   - Assignment 2: Create your own programs. 
 - **Suggested Homework:**
  
+<<<<<<< HEAD
 **Week 8** : Data Visualization I - Intro to ggplot2
+=======
+**Week 8** : ggplot2 (Part I) -- *Jason*
+>>>>>>> origin/master
 - Layering
 - Mapping
 - **Suggested Homework:**
 
+<<<<<<< HEAD
 **Week 9** : Data Visualization II - Applying ggplot2
+=======
+**Week 9** : ggplot2 (Part II) -- *Jason*
+>>>>>>> origin/master
 - More examples and exercises
 - **Suggested Homework:**
 

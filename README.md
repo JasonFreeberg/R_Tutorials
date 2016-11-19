@@ -94,3 +94,8 @@ Wednesdays 7:00pm - 8:00pm, [room]
 **Week 9:** ggplot2 (Part II)
 - More examples and exercises
 - **Suggested Homework:**
+
+**Week 10:** Quirks and Pitfalls of R
+- R's strengths and weaknesses
+- Identify some odd features of the R language
+- Comparison to Python using Pandas and matplotlib

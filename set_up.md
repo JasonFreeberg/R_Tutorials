@@ -47,12 +47,12 @@ It may look like a lot to install, but you probably have a lot of this downloade
 ### Trouble-Shooting:
 If you get stuck on a step, troubleshoot your error simply by Googling your error. For example...
 
-	- If RStudio is not recognizing your R installation on OSX, you would search "RStudio can't find R OSX".
-	- Or if Jupyter is not opening in your browser on your Windows machine... "jupyter notebook not opening in chrome windows".
+  - If RStudio is not recognizing your R installation on OSX, you would search "RStudio can't find R OSX".
+  - Or if Jupyter is not opening in your browser on your Windows machine... "jupyter notebook not opening in chrome windows".
 
 You can also post your question on the PSTAT 199 Piazza page. Another student might have encountered the same error and found a solution. For Jason or Aaron to respond, you **must** include in your post...
 
-	- Any error messages
-	- Your operating system
-	- Something you already tried to solve the problem
+  - Any error messages
+  - Your operating system
+  - Something you already tried to solve the problem
 

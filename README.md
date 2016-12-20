@@ -35,7 +35,6 @@ Wednesdays 7:00pm - 8:00pm, [room]
     - Install this [R Kernel](https://github.com/IRkernel/IRkernel) for Jupyter
 
 **Week 1** : Welcome
-- Why R?
 - About this class
   - Students should have a programming background of some sort
   - Grading critera for the class
@@ -46,24 +45,25 @@ Wednesdays 7:00pm - 8:00pm, [room]
     - Along with the R kernel
   - DataCamp.com
     - $9 Monthly Subscription [Student Discount]  (hopefully)
+- Why R?
 - Cover the basics of running a Jupyter Notebook
   - Command line argument: "jupyter notebook"
   - [Keyboard shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 - **Suggested Homework:**
 
 **Week 2** : Basics of R
-- Intro to Basic Coding Jargon (e.g. logical, numeric, character, strings, etc.)
-- Data Types
+- R's data types
+- Vectors
+  - Selection
+  - Non-nesting
 - Syntax
   - Basic Operations and Arithmetic
   - Logical Operators and Arguments
-- **Excercise:** 
-- Factors
-- Vectors
-- Matrices (?)
+- Writing clean code
+  - Clean bad code for practice
 - **Suggested Homework:**
-  - Sign up for DataCamp!
-      - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons!
+  - Sign up for DataCamp
+      - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons
   - [FREE] Start the Introduction to R Chapter \__ and do as much as you can.
 
 **Week 3** : Lists and User-Defined Functions (UDFs) -- *Aaron*
@@ -97,18 +97,23 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Use these newly learned functions to find specific information in your data frame
 - **Suggested Homework:**
 
-**Week 5** : Aggregating Data -- 
+**Week 5** : Aggregating Data -- *Jason*
 - Using dplyr
-  - Piping operator
-  - Basics
-- Grouping and Joining
+  - Functions for basic analysis
+  - Grouping data with group\_by()
+  - The piping operator, %>%
+- Joining dataframes
+  - inner, outer, left, and right
 - **Suggested Homework:**
  
-**Week 6** : Loading and Cleaning Data
+**Week 6** : Loading and Cleaning Data -- *Jason*
 - Formats
   - .csv
   - .json
+- Techniques for checking data
+  - unique values
 - Regular Expressions
+  - regex101.com
   - gsub()
 - **Suggested Homework:**
  

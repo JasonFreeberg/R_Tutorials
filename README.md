@@ -33,6 +33,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - RStudio, the IDE for R
   - Jupyter, an interactive notebook we will use in every class
     - Install this [R Kernel](https://github.com/IRkernel/IRkernel) for Jupyter
+- [Related video tutorial](https://youtu.be/I9a9Jj2A95g)
 
 **Week 1** : Welcome
 - About this class
@@ -56,9 +57,6 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Vectors
   - Selection
   - Non-nesting
-- Syntax
-  - Basic Operations and Arithmetic
-  - Logical Operators and Arguments
 - Writing clean code
   - Clean bad code for practice
 - **Suggested Homework:**
@@ -92,7 +90,6 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Sorting your data frame
 - Helpful functions
   - head(), summary(), glimpse(), is.na(), ...
-  - dplyr
 - **Excercise:** 
   - Use these newly learned functions to find specific information in your data frame
 - **Suggested Homework:**
@@ -100,18 +97,20 @@ Wednesdays 7:00pm - 8:00pm, [room]
 **Week 5** : Aggregating Data -- *Jason*
 - Using dplyr
   - Functions for basic analysis
-  - Grouping data with group\_by()
-  - The piping operator, %>%
+  - Grouping data with <code>group\_by()</code>
+  - The piping operator, <code>%>%</code>
 - Joining dataframes
   - inner, outer, left, and right
 - **Suggested Homework:**
+  - Work through [RegexOne.com](https://regexone.com)'s free online exercises.
  
 **Week 6** : Loading and Cleaning Data -- *Jason*
 - Formats
-  - .csv
-  - .json
+  - .csv and other delimited formats
+  - JSON
 - Techniques for checking data
-  - unique values
+  - max and min values
+  - unique factor levels
 - Regular Expressions
   - regex101.com
   - gsub()
@@ -133,10 +132,13 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - More examples and exercises
 - **Suggested Homework:**
 
-**Week 10** : Quirks and Pitfalls of R [and misc.]
-- Talk about
+**Week 10** : The Good and Bad of R
 - R's strengths and weaknesses
+    - Large memory footprint
+    - Difficult to use in production
+    - NULL columns
 - Compare R to other programming languages predominant in data science
-- Identify some odd features of the R language
-- Comparison to Python using Pandas and matplotlib
-
+    - Python using Pandas and matplotlib
+- Where to go now
+    - Kaggle competitions
+    - Shiny applications

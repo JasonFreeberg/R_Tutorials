@@ -52,7 +52,7 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - [Keyboard shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 - **Suggested Homework:**
 
-**Week 2** : Basics of R
+**Week 2** : Basics of R -- <em>Jason</em>
 - R's data types
 - Vectors
   - Selection
@@ -60,9 +60,9 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Writing clean code
   - Clean bad code for practice
 - **Suggested Homework:**
-  - Sign up for DataCamp
-      - Recommended: Using the academic student discount provided by the class, sign up premium access to all of DataCamp's interactive lessons
-  - [FREE] Start the Introduction to R Chapter \__ and do as much as you can.
+  - Sign up for DataCamp.com
+  - DataCamp: <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
+    - Chapters 1, 2, 3
 
 **Week 3** : Lists and User-Defined Functions (UDFs) -- *Aaron*
 - Built-in Functions
@@ -78,7 +78,10 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Subsetting
   - Use cases
 - **Suggested Homework:**
-  - Continue progress on DataCamp (continue "Introduction to R", you might get a sneak peek of next week's lesson!). 
+ - DataCamp: <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
+    - Chapters 4 and 5: Factors and Dataframes
+ - DataCamp: <a href="https://www.datacamp.com/courses/intermediate-r">Intermediate R</a>
+    - Chapters 1 to 3: Contiditionals and Control Flow, Loops, and Functions
  
 **Week 4** : Data Frames -- *Aaron*
 - Conditioning and Subsetting
@@ -102,7 +105,8 @@ Wednesdays 7:00pm - 8:00pm, [room]
 - Joining dataframes
   - inner, outer, left, and right
 - **Suggested Homework:**
-  - Work through [RegexOne.com](https://regexone.com)'s free online exercises.
+  - DataCamp: <a href="https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial">Data Manipulation in R with dplyr</a>
+    - All chapters
  
 **Week 6** : Loading and Cleaning Data -- *Jason*
 - Formats
@@ -115,6 +119,8 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - regex101.com
   - gsub()
 - **Suggested Homework:**
+  - DataCamp: <a hre="https://www.datacamp.com/courses/cleaning-data-in-r">Cleaning Data in R</a>
+  - Work through [RegexOne.com](https://regexone.com)'s free online exercises.
  
 **Week 7** : Review Exam -- *Jason and Aaron*
 - First half of class: Review all material up until now
@@ -122,6 +128,8 @@ Wednesdays 7:00pm - 8:00pm, [room]
   - Assignment 1: Fill in the blank excercises. (Material from Week 1-6)
   - Assignment 2: Create your own programs. 
 - **Suggested Homework:**
+  - Complete all assigned Datacamp exercises up to this point.
+  - DataCamp: Finish <a href="https://www.datacamp.com/courses/intermediate-r">Intermediate R</a>
  
 **Week 8** : ggplot2 (Part I) -- *Jason*
 - Layering

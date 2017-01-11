@@ -9,6 +9,7 @@ Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
 **Undergraduate Assistants**:
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg), freeberg [at] umail.ucsb.edu
 - [Aaron Nguyen](https://www.linkedin.com/in/aaronknguyen), aaronknguyen [at] umail.ucsb.edu
+- Office Hours will be held on Sundays. Location and time will be announced on Gauchospace. We are also available by appointment during the week.
 
 **Lecture Time and Location**:
 Wednesdays 7:00pm - 8:50pm, Girvetz 2128
@@ -39,18 +40,18 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 - About this class
   - Students should have a programming background of some sort
   - Grading critera for the class
-  - Suggested homework for the quarter
+  - Homework for the quarter
 - Ensure all students are set up with course materials
   - R and RStudio
   - Jupyter
     - Along with the R kernel
-  - DataCamp.com
-    - $9 Monthly Subscription [Student Discount]  (hopefully)
+  - DataCamp.com 
 - Why R?
 - Cover the basics of running a Jupyter Notebook
   - Command line argument: "jupyter notebook"
   - [Keyboard shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
-- **Suggested Homework:**
+- **Homework:**
+  - Install the course materials. See "Software" section above. Ensure they are functioning properly.
 
 **Week 2**, Jan. 18: Basics of R -- <em>Jason</em>
 - R's data types
@@ -60,7 +61,7 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 - Writing clean code
   - Clean bad code for practice
 - **Homework:**
-  - Sign up for DataCamp.com
+  - Create an account on DataCamp.com
   - DataCamp: <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
     - Chapters 1, 2, 3
 
@@ -96,6 +97,7 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 - **Excercise:** 
   - Use these newly learned functions to find specific information in your data frame
 - **Homework:**
+  - DataCamp: Finish <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
 
 **Week 5**, Feb. 8th: Aggregating Data -- *Jason*
 - Using dplyr
@@ -120,6 +122,7 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
   - gsub()
 - **Homework:**
   - DataCamp: <a hre="https://www.datacamp.com/courses/cleaning-data-in-r">Cleaning Data in R</a>
+    - All exercises
   - Work through [RegexOne.com](https://regexone.com)'s free online exercises.
  
 **Week 7**, Feb. 22nd: Review Exam -- *Jason and Aaron*
@@ -142,13 +145,16 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 - Mapping
   - Basic aesthetics
 - **Homework:**
+  - DataCamp: <a href="https://www.datacamp.com/courses/data-visualization-with-ggplot2-1">Data Vis with ggplot2</a>
+      - Exercises 1 and 2
 
 **Week 9**, Mar. 8th: ggplot2 (Part II) -- *Jason*
 - Deeper dive into ggplot2
-- Mapping multiple attributes
-- Static vs. Dynamic mapping
-- Layering generalized linear models
+  - Mapping multiple attributes
+  - Static vs. Dynamic mapping
+  - Layering generalized linear models
 - **Homework:**
+  - DataCamp: Finish <a href="https://www.datacamp.com/courses/data-visualization-with-ggplot2-1">Data Vis with ggplot2</a>
 
 **Week 10**, Mar. 15th: The Good and Bad of R -- *Jason*
 - R's strengths and weaknesses

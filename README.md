@@ -64,19 +64,18 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
   - DataCamp: <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
     - Chapters 1, 2, 3
 
-**Week 3**, Jan. 25: Lists and User-Defined Functions (UDFs) -- *Aaron*
+**Week 3**, Jan. 25: User-Defined Functions (UDFs) and Lists -- *Aaron*
 - Built-in Functions
   - Numerical / Statistical
   - Segway into students making the functions themselves.
 - UDFs
   - Make your code DRY
   - Divide and conquer
-- **Exercise:** Mean and Variance
+- **Exercise:** Creating Your Own Functions
 - Lists
   - Generating
     - Named lists
   - Subsetting
-  - Use cases
 - **Homework:**
  - DataCamp: <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>
     - Chapters 4 and 5: Factors and Dataframes

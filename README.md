@@ -1,10 +1,8 @@
-# PSTAT 193 Syllabus
+# <a href="https://github.com/JasonFreeberg/R_Tutorials/edit/master/README.md">PSTAT 193 Syllabus</a>
 ### R Programming Tutorials -- Winter 2017
 
 **Instructor**:
 Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
-- feldman [at] pstat.ucsb.edu
-- South Hall 5516
 
 **Undergraduate Assistants**:
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg), freeberg [at] umail.ucsb.edu
@@ -14,7 +12,7 @@ Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
 **Lecture Time and Location**:
 Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 
-**Prerequisites**: Students must be of upper division standing or recieve consent from the instructor. Students should also have programming experience, either through UCSB classes or personal projects.
+**Prerequisites**: Students must be of upper division standing or recieve consent from the instructor. Students are are reuired to bring a laptop computer to lectures. Students should also have programming experience, either through UCSB classes or personal projects.
 
 **Grading**: This class is offered for 1 unit, Pass/No Pass. Students will recieve a passing grade for attending *and* actively participating in **9** lectures. 
   - During lecture on February 22nd there will be a review examination. Scoring above 75% on this exam allow a student to make up one (1) previous missed lecture attendance. This cannot be used towards future missed attendances after February 22nd.
@@ -22,10 +20,11 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 **Topics**: This class will cover the basics of the R programming language and apply the material to real-world problems and data. In the first weeks, we will explore the fundamental objects and syntax of R. Next, we will learn how to load and format data. In the last weeks we will cover the basics of [ggplot2](https://en.wikipedia.org/wiki/Ggplot2), a popular data visualization package for R.
 
 **Textbooks and other resources**: There are no required textbooks for this course. However, the following are all great resources for students learning the R language.
+- [PSTAT's Piazza Group](https://piazza.com/ucsb/other/pstat199) is where students can ask and answer R programming questions
 - [Jupyter Notebook Docs](http://jupyter-notebook.readthedocs.io/en/latest/) has all the answers for installing, running, and saving Jupyter Notebooks
 - [DataCamp.com](https://www.datacamp.com/courses?learn=r_programming) is an interactive programming tutorial website and will be used for most homework assignments
 - [The R Book](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) is a great R reference manual
-- [PSTAT's Piazza Group](https://piazza.com/ucsb/other/pstat199) is where students can ask and answer R programming questions
+- [Google](https://www.google.com), for all your error messages and simple questions!
 
 **Software**: Students are required to download following free programs/software and ensure they are running properly on their machine.
   - R, the programming language for the course

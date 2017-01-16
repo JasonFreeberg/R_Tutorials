@@ -86,13 +86,13 @@ Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 - Conditioning and Subsetting
   - Syntax: *dataframe[rows, columns]*
 - New columns/rows
-- **Excercise:** 
+- **Exercise:** 
   - Create a clone of an existing data frame (or create your own if time permits)
   - Manipulate the data frame by adding new and old columns/rows
   - Sorting your data frame
 - Helpful functions
   - head(), summary(), glimpse(), is.na(), ...
-- **Excercise:** 
+- **Exercise:** 
   - Use these newly learned functions to find specific information in your data frame
 - **Homework:**
   - DataCamp: Finish <a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a>

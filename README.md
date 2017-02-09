@@ -12,10 +12,10 @@ Professor [Raya Feldman](http://www.pstat.ucsb.edu/faculty%20pages/FELDMAN.htm)
 **Lecture Time and Location**:
 Wednesdays 7:00pm - 8:50pm, Girvetz 2128
 
-**Prerequisites**: Students must be of upper division standing or recieve consent from the instructor. Students are are reuired to bring a laptop computer to lectures. Students should also have programming experience, either through UCSB classes or personal projects.
+**Prerequisites**: Students must be of upper division standing or recieve consent from the instructor. Students are are required to bring a laptop computer to lectures. Students should also have programming experience, either through UCSB classes or personal projects.
 
-**Grading**: This class is offered for 1 unit, Pass/No Pass. Students will recieve a passing grade for attending *and* actively participating in **9** lectures. 
-  - During lecture on February 22nd there will be a review examination. Scoring above 75% on this exam allow a student to make up one (1) previous missed lecture attendance. This cannot be used towards future missed attendances after February 22nd.
+**Grading**: This class is offered for 1 unit, Pass/No Pass. Students will recieve a passing grade for attending *and* actively participating in **8** of the **9** lectures. (There is no lecture during Week 1, as we use that day to pass out add codes.)
+  - During lecture on Week 7 (February 22nd) there will be a review examination. Scoring above 75% on this exam will allow a student to make up one (1) previous missed lecture attendance. This cannot be used towards future missed attendances after February 22nd.
 
 **Topics**: This class will cover the basics of the R programming language and apply the material to real-world problems and data. In the first weeks, we will explore the fundamental objects and syntax of R. Next, we will learn how to load and format data. In the last weeks we will cover the basics of [ggplot2](https://en.wikipedia.org/wiki/Ggplot2), a popular data visualization package for R.
 
